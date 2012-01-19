@@ -1,0 +1,5 @@
+.idea/
+target/
+*.iml
+web/WEB-INF/classes/
+web/WEB-INF/lib/
